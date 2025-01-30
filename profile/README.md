@@ -1,5 +1,14 @@
-## Hi there 👋
+#Artificial Intelligence tools for processing and analysing environmental data.
 
+## Demos
+
+Classification of fish based on sounds. \
+https://xarroco.streamlit.app/
+
+## Contributors:
+https://www.fishbioacoustics.pt/  \
+https://biodiversityresearch.org/ \
+https://gaips.inesc-id.pt/
 <!--
 
 **Here are some ideas to get you started:**
