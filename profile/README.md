@@ -1,4 +1,4 @@
-#Artificial Intelligence tools for processing and analysing environmental data.
+# AI Tools for Environmental Applications
 
 ## Demos
 
