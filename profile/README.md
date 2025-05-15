@@ -2,8 +2,10 @@
 
 ## Demos
 
-Classification of fish based on sounds. \
-https://xarroco.streamlit.app/
+Classification of fish on the Tagus estuary based on sounds. \
+(paper) ''Advancing Passive Acoustic Monitoring with Deep Learning: Detection and Classification of Soniferous Fish'', to appear \
+(code) https://github.com/NabiaAI/Argyrosomus \
+(demo) https://xarroco.streamlit.app/
 
 ## Contributors:
 https://www.fishbioacoustics.pt/  \
