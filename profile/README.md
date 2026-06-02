@@ -3,7 +3,7 @@
 ## Demos
 
 Classification of fish on the Tagus estuary based on sounds. \
-(paper) ''Advancing Passive Acoustic Monitoring with Deep Learning: Detection and Classification of Soniferous Fish'', to appear \
+(paper) ''Huang, Z., Ochs, D., Amorim, M., Fonseca, P. J., Goel, M., Nunes, N. J., Vieira, M. & Lopes, M. (2025). Deep learning–based frameworks for the detection and classification of soniferous fish. The Journal of the Acoustical Society of America, 158(2), 1060-1071'' (https://doi.org/10.1121/10.0038800)" \
 (code) https://github.com/NabiaAI/Argyrosomus \
 (demo) https://xarroco.streamlit.app/
 
